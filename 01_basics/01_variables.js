@@ -8,7 +8,6 @@ let accountState
 // accountId = 2; not allow 
 
 /*
-
 prefer to not used var
 beques of issue in block scope and function scope
 */
