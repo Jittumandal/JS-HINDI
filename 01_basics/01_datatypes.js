@@ -15,6 +15,7 @@ let isloggedId = false // this is true / foles data tpyes
 
 let state 
 
+// class = 5 
 
 
 // number => 2 to power 53
