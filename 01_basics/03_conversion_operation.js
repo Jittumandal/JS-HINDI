@@ -22,3 +22,5 @@ console.log(booleanloggedIn)
 // put true = print is true
 // put flase = print flase 
 // put string "name" = print name  is true
+
+// class numer is =  6 
